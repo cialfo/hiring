@@ -7,8 +7,8 @@
 ####About Us
 ---
 
-Why and What we do?
----
+##Why and What we do?
+
 We are trying to simplify the college application process for undergraduates and post graduates.
 
 At CIALFO, in past 3 years we have helped over **300+ students** to get into **top 50 colleges in the world** (some got into their dream college as well). But for the students, this comes at a price. Currently we charge between $8,000-$10,000 for our services and so not everyone can afford a personal mentor to help them get into their dream college. 
@@ -19,8 +19,8 @@ The answer to that is - Technology.
 
 We are building automated tools that will replace the mentor entirely (or partially) from the equation allowing students to do the entire process on their own. To achieve this we need a huge team of engineers. We have raised a [seed fund of $800K](http://e27.co/singapore-based-edutech-startup-cialfo-raises-us800k-in-seed-funding-20141030/) last year and we want to use that to build a team of engineers.
 
-How we do?
----
+##How we do?   
+
 So far we have built two tools
 
 1. [Get A Plan for SAT](http://getaplan.sitforsat.com?utm_source=github&utm_medium=how_we_do&utm_campaign=hiring) - every student who wants to study in the US needs to take [SAT](https://en.wikipedia.org/wiki/SAT). Most of the Asian students have difficulty in preparing for the vocabulary section. So we build Get A Plan (GAP) to make the learning process simple and easy. We build 4 fun word games which you can play and that will help you in memorising the words in a better way. See the Wall Street Journal (WSJ) coverage [here](http://www.wsj.com/video/can-vocabulary-apps-boost-sat-scores/A979447B-4C98-4459-A3D6-A5AAA8512748.html)
@@ -31,8 +31,8 @@ Our tech stack: **Ruby on Rails, MongoDB, MySQL, NodeJS, AngularJS, jQuery, CSS3
 
 Hosting (Cloud): **AWS, GCE (Google Compute Engine)**
 
-Why Join Us?
----
+##Why Join Us?
+
 * You love simplifying complex problems with the help of technology (Example? *automatically analysing a student’s profile data and suggesting best match colleges. Suggesting ideas for essays based on student’s personality. Assessing the written essay and detect grammatical errors, plagiarism etc.*)
 
 * You want to be part of an early stage start up (fun + chaos = insane fun!)
