@@ -1,8 +1,8 @@
 ####Current Openings in Technology
 ---
 
-1. [Engineering Head (Bangalore - someone who can lead + code)](https://angel.co/cialfo/jobs/93719-engineering-head-code-lead) --- [Take the test and apply](http://github.com/cialfo/hiring)
-2. [Product Engineer (Ruby on Rails)](https://angel.co/cialfo/jobs/94036-product-engineer) --- [Take the test and apply](http://github.com/cialfo/hiring)
+1. [Engineering Head (Bangalore - someone who can lead + code)](https://angel.co/cialfo/jobs/93719-engineering-head-code-lead) --- [Take the test and apply](https://github.com/cialfo/hiring/tree/master/ruby_rails)
+2. [Product Engineer (Ruby on Rails)](https://angel.co/cialfo/jobs/94036-product-engineer) --- [Take the test and apply](https://github.com/cialfo/hiring/tree/master/ruby_rails)
 
 ####About Us
 ---
