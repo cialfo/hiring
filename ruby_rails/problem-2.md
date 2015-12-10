@@ -69,7 +69,7 @@ As you can see that time slot [11:00-14:00] from Google overlaps time slots [12:
 	},
 	{
 		start: "2015-11-01T15:00:00.00+08:00",
-		end: "2015-11-01T16:00:00.00+08:00"
+		end: "2015-11-01T17:00:00.00+08:00"
 	}
 ]
 ```
