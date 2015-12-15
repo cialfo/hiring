@@ -43,4 +43,4 @@ Has following things
 
 ##### Flow Diagram
 
-![Figure 1, flow diagram](https://cldup.com/_VB33jhwDT.png)
+![Figure 1, flow diagram](https://cldup.com/tupGszZXaw.png)
