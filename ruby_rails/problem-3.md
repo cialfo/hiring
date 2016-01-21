@@ -1,46 +1,24 @@
 Problem 3
 ===
-Create a Rails app which uses **Devise** gem for authentication. But instead of using database, use an API for authentication.
+Create a page to display list of colleges.
 
-##### API application (api.example.com)
-routes
+#### Step 1
+Create a rake task to scrape top colleges data from [US News college page](http://colleges.usnews.rankingsandreviews.com/best-colleges/rankings/national-universities/data) (all pages)
 
-1. **POST: /v1/register**
+The scraped data needs to stored in a json file in this structure
 
-   Params: name, email_id, password
-
-   Returns:  
-   on Success  
-   ```
-   {:status => "success", :user_id => <id>}
-   ```  
-   on Failure  
-   ```
-   {:status => "failed", :reason => ""}
-   ```  
-
-2. **POST: /v1/authenticate**
-
-   Params: email_id, password
-
-   Returns:  
-   on Success  
-   ```
-   {:status => "success"}
-   ```  
-   on Failure  
-   ```
-   {:status => "failed", :reason => ""}   
-   ```  
-
-##### Web application (example.com)
-
-Has following things  
-
-1. Sign up page (register via Devise using /v1/register API end point)
-2. Sign in page (authenticate via Devise using /v1/authenticate end point)
-3. A dummy home page. This should be shown if sign in (or sign up) is successful. This page should not be accessible without a valid session
-
-##### Flow Diagram
-
-![Figure 1, flow diagram](https://cldup.com/tupGszZXaw.png)
+```
+[
+  {
+    "name" : "Example college/school name",
+    "rank" : 1,
+    "tuition_fees" : "$5000",
+    "total_enrollment" : 50000,
+    "acceptance_rate" : "50%",
+    "average_retention_rates" : "98%",
+    "graduation_rate" : "98%"
+  }
+]
+```
+#### Step 2
+Once you have the json file, create a html page to display the data in a tablular format with paging (10 records per page)
