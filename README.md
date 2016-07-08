@@ -3,19 +3,19 @@
 
 1. [Senior Full Stack Developer - RoR, AngularJS, MySQL - (3-5 years of experience) Bangalore](https://angel.co/cialfo/jobs/61469-senior-full-stack-ruby-on-rails-developer-with-strong-front-end-skills)
 
-   ===> [Take the test and apply](https://github.com/cialfo/hiring/tree/master/ruby_rails) <===
+   > [Take the test and apply](https://github.com/cialfo/hiring/tree/master/ruby_rails)
    
 2. [Junior Full Stack Developer - RoR, AngularJS, MySQL - (1-2 years of experience)- Bangalore](https://angel.co/cialfo/jobs/94036-product-engineer)
 
-   ===> [Take the test and apply](https://github.com/cialfo/hiring/tree/master/ruby_rails) <===
+   > [Take the test and apply](https://github.com/cialfo/hiring/tree/master/ruby_rails)
    
 3. [Senior QA Engineer (2-3 years of experience in manual + automation testing)](https://angel.co/cialfo/jobs/93729-senior-qa-engineer) 
 
-  ===> [Take the test and apply](https://docs.google.com/document/d/1XHzbB2KzRG2YkSk-g9a9Al97WW20_MSzN6YNM41-LrU/edit) <=== 
+  > [Take the test and apply](https://docs.google.com/document/d/1XHzbB2KzRG2YkSk-g9a9Al97WW20_MSzN6YNM41-LrU/edit)
 
 4. [Senior Visual Designer](https://angel.co/cialfo/jobs/93706-visual-designer)
 
-  ===> Send an email to [mo@cialfo.com.sg](mailto:mo@cialfo.com.sg) along with your latest resume and portfolio 
+  > Send an email to [mo@cialfo.com.sg](mailto:mo@cialfo.com.sg) along with your latest resume and portfolio
 
 ####About Us
 ---
