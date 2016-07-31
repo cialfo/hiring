@@ -6,7 +6,7 @@
 [Anagram](https://github.com/cialfo/hiring/blob/master/ruby_rails/problem-1.md)
 
 ####Problem 2
-[Time Merge](https://github.com/cialfo/hiring/blob/master/ruby_rails/problem-2.md)
+[Super Score](https://github.com/cialfo/hiring/blob/master/ruby_rails/problem-2.md)
 
 ####Problem 3
 [Scrape and Display](https://github.com/cialfo/hiring/blob/master/ruby_rails/problem-3.md)

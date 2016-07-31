@@ -1,75 +1,37 @@
 Problem 2
 ===
-We are fetching free time slots of a user from two calendars (Google calendar & iCloud calendar). Both the service gives similar output as show below
+##### Find Super Score
 
-Response from Google Calendar Service
+The table below shows SAT test score of a student who has given the test 5 times
 
-```
-[
-	{
-		start: "2015-11-01T10:00:00.00+08:00",
-		end: "2015-11-01T11:00:00.00+08:00"
-	},
-	{
-		start: "2015-11-01T11:00:00.00+08:00",
-		end: "2015-11-01T14:00:00.00+08:00"
-	},
-	{
-		start: "2015-11-01T15:00:00.00+08:00",
-		end: "2015-11-01T17:00:00.00+08:00"
-	}
-]
-```
+| math_score | reading_score | writing_score | test_date | 
+| -------    | ----------    | ------------- | ------------- |
+| 750	     | 650           | 650	          | 2016-01-01 00:00:00 | 
+| 740	     | 610           | 680	          | 2016-02-01 00:00:00 | 
+| 790	     | 450           | 750	          | 2016-03-01 00:00:00 | 
+| 800	     | 600           | 700	          | 2016-04-01 00:00:00 | 
+| 770	     | 690           | 710	          | 2016-05-01 00:00:00 |
 
-Response from iCal Calendar Service
 
-```
-[
-	{
-		start: "2015-11-01T12:00:00.00+08:00",
-		end: "2015-11-01T13:00:00.00+08:00"
-	},
-	{
-		start: "2015-11-01T13:00:00.00+08:00",
-		end: "2015-11-01T14:00:00.00+08:00"
-	},
-	{
-		start: "2015-11-01T14:00:00.00+08:00",
-		end: "2015-11-01T15:00:00.00+08:00"
-	},
-	{
-		start: "2015-11-01T15:00:00.00+08:00",
-		end: "2015-11-01T16:00:00.00+08:00"
-	}
-]
-```
+Write a ruby program to find super score of the SAT test. A super score is the sum of maximum of each section (maths, reading, writing) from all the tests given so far.
 
-As you can see that time slot [11:00-14:00] from Google overlaps time slots [12:00-13:00] and [13:00-14:00] in the iCal response.
+So for the above example, the super score would be 800 (maths) + 690 (reading) + 750 (writing) = 2240.
 
-**Write a code in ruby that will**
+**Input**
 
-1. take these two objects and output a unique free time slots (no duplicates and overlaps).
-2. Order the union chronologically
+Take number of tests (n) and then data as row of inputs with space separated values
 
-##### Output
+Example:
+3
+750 650 650 2016-01-01 00:00:00
+740 610 680 2016-02-01 00:00:00
+790 450 750 2016-03-01 00:00:00
 
-```
-[
-	{
-		start: "2015-11-01T10:00:00.00+08:00",
-		end: "2015-11-01T11:00:00.00+08:00"
-	},
-	{
-		start: "2015-11-01T11:00:00.00+08:00",
-		end: "2015-11-01T14:00:00.00+08:00"
-	},
-	{
-		start: "2015-11-01T14:00:00.00+08:00",
-		end: "2015-11-01T15:00:00.00+08:00"
-	},
-	{
-		start: "2015-11-01T15:00:00.00+08:00",
-		end: "2015-11-01T17:00:00.00+08:00"
-	}
-]
-```
+**output**
+
+Individual max score and the super score in the next line
+
+Example:
+790, 650, 750
+2190
+
