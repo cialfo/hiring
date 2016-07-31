@@ -21,17 +21,17 @@ So for the above example, the super score would be 800 (maths) + 690 (reading) +
 
 Take number of tests (n) and then data as row of inputs with space separated values
 
-Example:
-3
-750 650 650 2016-01-01 00:00:00
-740 610 680 2016-02-01 00:00:00
-790 450 750 2016-03-01 00:00:00
+Example:   
+3   
+750 650 650 2016-01-01 00:00:00   
+740 610 680 2016-02-01 00:00:00   
+790 450 750 2016-03-01 00:00:00   
 
 **output**
 
 Individual max score and the super score in the next line
 
-Example:
-790, 650, 750
+Example:   
+790, 650, 750   
 2190
 
