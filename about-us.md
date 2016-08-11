@@ -1,52 +1,31 @@
-####Current Openings in Technology
+#### About Us
 ---
 
-1. [Senior Full Stack Developer - RoR, AngularJS, MySQL - (3-5 years of experience) Bangalore](https://angel.co/cialfo/jobs/61469-senior-full-stack-ruby-on-rails-developer-with-strong-front-end-skills)
+### Why and What we do?
 
-   > [Take the test and apply](https://github.com/cialfo/hiring/tree/master/ruby_rails)
-   
-2. [Junior Full Stack Developer - RoR, AngularJS, MySQL - (1-2 years of experience)- Bangalore](https://angel.co/cialfo/jobs/94036-product-engineer)
+Cialfo offers an innovative SaaS platform (available on web and mobile) for independent college counsellors, private organizations and high schools to streamline their overseas college application process. It increases the effectiveness by enabling efficient task management, managing communications with their students and parents; and an automated proprietary college shortlisting algorithm.
 
-   > [Take the test and apply](https://github.com/cialfo/hiring/tree/master/ruby_rails)
-   
-3. [Senior QA Engineer (2-3 years of experience in manual + automation testing)](https://angel.co/cialfo/jobs/93729-senior-qa-engineer) 
+Cialfo started as a overseas education consultancy in Singapore that streamlined the US and UK college application process for students with a unique combination of online platform solutions and mobile applications, designed by highly experienced veterans of the college admissions process. 100% of Cialfo’s students have been admitted to a college of their choice and 60% of them admitted into top 20 US/UK universities.
 
-  > [Take the test and apply](https://docs.google.com/document/d/1XHzbB2KzRG2YkSk-g9a9Al97WW20_MSzN6YNM41-LrU/edit)
+Cialfo is on a mission to democratize tertiary education globally and help 1 million students through its platform by 2020.
 
-4. [Senior Visual Designer](https://angel.co/cialfo/jobs/93706-visual-designer)
+We are doubling our tech team in Bangalore to help build faster. We are [seed-funed](https://e27.co/singaporean-startup-cialfo-raises-a-pre-series-a-to-help-asia-based-students-enter-uk-and-us-universities-20160810/) and we want to use that to build our technology team. You can read more about us in the [Venture Beat Article](http://venturebeat.com/2015/12/14/cialfo-is-dominating-online-college-admissions-in-singapore-with-just-800k/)
 
-  > Send an email to [mo@cialfo.com.sg](mailto:mo@cialfo.com.sg) along with your latest resume and portfolio
-
-####About Us
----
-
-##Why and What we do?
-
-We are trying to simplify the college application process for undergraduates and post graduates.
-
-At CIALFO, in past 3 years we have helped over **300+ students** to get into **top 50 colleges in the world** (some got into their dream college as well). But for the students, this comes at a price. Currently we charge between $8,000-$10,000 for our services and so not everyone can afford a personal mentor to help them get into their dream college. 
-
-We want to level the field and make the application process simple and accessible to everyone in the world. 
-
-The answer to that is - Technology.
-
-We are building automated tools that will replace the mentor entirely (or partially) from the equation allowing students to do the entire process on their own. Along with helping students we are also helping companies and individual mentors like us by powering their operations with our technology. We are converting out platform into a SaaS solution. This will allow us to help more students in a faster way.
-
-We are doubling our tech team in Bangalore to help build faster. We have raised a [seed fund of $800K](http://e27.co/singapore-based-edutech-startup-cialfo-raises-us800k-in-seed-funding-20141030/) last year and we want to use that to build our technology team. You can read more about us in the [Venture Beat Article](http://venturebeat.com/2015/12/14/cialfo-is-dominating-online-college-admissions-in-singapore-with-just-800k/)
-
-##How we do?   
+### How we do?   
 
 So far we have built two tools
 
-1. [Get A Plan for SAT](http://getaplan.sitforsat.com?utm_source=github&utm_medium=how_we_do&utm_campaign=hiring) - every student who wants to study in the US needs to take [SAT](https://en.wikipedia.org/wiki/SAT). Most of the Asian students have difficulty in preparing for the vocabulary section. So we build Get A Plan (GAP) to make the learning process simple and easy. We build 4 fun word games which you can play and that will help you in memorising the words in a better way. See the Wall Street Journal (WSJ) coverage [here](http://www.wsj.com/video/can-vocabulary-apps-boost-sat-scores/A979447B-4C98-4459-A3D6-A5AAA8512748.html)
+1. [Companion](https://cialfo.co/companion) - Our white labeled SaaS offerings to consultants and high schools across Asia. We are building features to stream line the work for consultants by allowing them to create and manage tasks for students, track their progress, schedule meetings, chat with them using our chat interface and keep parents up to date with our SMS and email notifications.
 
-2. [CIALFO Application Mentoring - Companion](https://cialfo.co/companion?utm_source=github&utm_medium=how_we_do&utm_campaign=hiring) - We are building this tool to make the entire application process efficient and ultimately taking the mentor out of the picture. We are currently in beta ([companion.cialfo.co](https://companion.cialfo.co?utm_source=github&utm_medium=how_we_do&utm_campaign=hiring)) and testing the tool with students that are currently customers of Cialfo in Singapore and our partners in China.
+2. [College Shortlist](http://colleges.cialfo.co) - We are on a mission to collate all the information for all the US and UK colleges. Everything a student or a consultant need to make informed decision about applying to a college. We have built Compass&trade; - our shortlisting algorithm. It takes your qualitative data and suggests the colleges that are best fit for you.
 
-Our tech stack: **Ruby on Rails, MongoDB, MySQL, NodeJS, AngularJS, jQuery, CSS3 (SCSS), HTML5**
+3. [Get A Plan for SAT](http://getaplan.sitforsat.com?utm_source=github&utm_medium=how_we_do&utm_campaign=hiring) - every student who wants to study in the US needs to take [SAT](https://en.wikipedia.org/wiki/SAT). Most of the Asian students have difficulty in preparing for the vocabulary section. So we build Get A Plan (GAP) to make the learning process simple and easy. We build 4 fun word games which you can play and that will help you in memorizing the words in a better way. See the Wall Street Journal (WSJ) coverage [here](http://www.wsj.com/video/can-vocabulary-apps-boost-sat-scores/A979447B-4C98-4459-A3D6-A5AAA8512748.html)
+
+Our tech stack: **Ruby on Rails, MongoDB, MySQL, NodeJS, AngularJS, jQuery, CSS3 (SCSS), HTML5, Ionic Framework**
 
 Hosting (Cloud): **AWS, GCE (Google Compute Engine)**
 
-##Why Join Us?
+### Why Join Us?
 
 * You love simplifying complex problems with the help of technology (Example? *automatically analysing a student’s profile data and suggesting best match colleges. Suggesting ideas for essays based on student’s personality. Assessing the written essay and detect grammatical errors, plagiarism etc.*)
 
