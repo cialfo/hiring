@@ -9,7 +9,7 @@ Cialfo started as a overseas education consultancy in Singapore that streamlined
 
 Cialfo is on a mission to democratize tertiary education globally and help 1 million students through its platform by 2020.
 
-We are doubling our tech team in Bangalore to help build faster. We are [seed-funed](https://e27.co/singaporean-startup-cialfo-raises-a-pre-series-a-to-help-asia-based-students-enter-uk-and-us-universities-20160810/) and we want to use that to build our technology team. You can read more about us in the [Venture Beat Article](http://venturebeat.com/2015/12/14/cialfo-is-dominating-online-college-admissions-in-singapore-with-just-800k/)
+We are doubling our tech team in Bangalore to help build faster. We are [seed-funded](https://e27.co/singaporean-startup-cialfo-raises-a-pre-series-a-to-help-asia-based-students-enter-uk-and-us-universities-20160810/) and we want to use that to build our technology team. You can read more about us in the [Venture Beat Article](http://venturebeat.com/2015/12/14/cialfo-is-dominating-online-college-admissions-in-singapore-with-just-800k/)
 
 ### How we do?   
 
