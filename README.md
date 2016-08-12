@@ -3,13 +3,13 @@
 
 
 #### Problem 1
-[Anagram](https://github.com/cialfo/hiring/blob/master/ruby_rails/problem-1.md)
+[Anagram](https://github.com/cialfo/hiring/blob/master/problem-1.md)
 
 #### Problem 2
-[Make It Flat](https://github.com/cialfo/hiring/blob/master/ruby_rails/problem-2.md)
+[Make It Flat](https://github.com/cialfo/hiring/blob/master/problem-2.md)
 
 #### Problem 3
-[Scrape and Display](https://github.com/cialfo/hiring/blob/master/ruby_rails/problem-3.md)
+[Scrape and Display](https://github.com/cialfo/hiring/blob/master/problem-3.md)
 
 ### How to submit your solution
 Create a github repo and add the repo link in [this form](https://docs.google.com/a/cialfo.com.sg/forms/d/e/1FAIpQLSd7JvvhYCcS41xssRdb9gxdgU2S7Su5nMRSSd9WxBIIlqkIBA/viewform)
