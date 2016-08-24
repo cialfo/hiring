@@ -13,7 +13,7 @@ We are doubling our tech team in Bangalore to help build faster. We are [seed-fu
 
 ### How we do?   
 
-So far we have built two tools
+So far we have built these tools
 
 1. [Companion](https://cialfo.co/companion) - Our white labeled SaaS offerings to consultants and high schools across Asia. We are building features to stream line the work for consultants by allowing them to create and manage tasks for students, track their progress, schedule meetings, chat with them using our chat interface and keep parents up to date with our SMS and email notifications.
 
